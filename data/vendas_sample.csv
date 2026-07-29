@@ -1,0 +1,81 @@
+id_venda,data_venda,produto,categoria,quantidade,preco_unitario,vendedor,regiao
+b81ea7ff-c11c-4b14-9b49-b006d1a6d63d,2024-05-20,Smartphone X10,Eletronicos,4,212.52,Fabio Costa,Sudeste
+337b574e-6a31-4224-8376-c3d0a6d6b180,2024-08-04,Tablet Air,Eletronicos,1,41.37,Bruno Lima,Sul
+55d50d59-a2dc-4e50-a38b-68ec14de6061,2024-04-11,Tablet Air,Eletronicos,12,590.08,Elisa Rocha,Centro-Oeste
+e8ab9790-33a3-463b-a2ab-3ca547a1faf2,2024-10-28,Tenis Esportivo,Vestuario,5,731.27,Ana Souza,Sul
+de86341d-8e59-4444-a2dd-1789f80f1320,2024-05-22,Luminaria de Mesa,Casa,3,205.53,Carla Mendes,Sudeste
+3075aaca-73f7-4cb6-b46c-d23df5836fc1,2024-02-19,Smart TV 50pol,Eletronicos,6,764.95,Elisa Rocha,Nordeste
+61c0f46e-7a04-432a-8008-54faebb2e74f,2024-10-01,Smart TV 50pol,Eletronicos,2,876.11,Diego Alves,Sudeste
+b9e43549-88cc-4350-8883-84d767330eac,2024-07-04,Mel Organico,Alimentos,10,185.16,Ana Souza,Sudeste
+d5b0896f-c920-43bf-ae02-62f2701480f4,2024-02-10,Jaqueta Corta-Vento,Vestuario,4,781.75,Diego Alves,Nordeste
+b3b4c03e-c109-4db9-a7a3-66fa617619b1,2024-03-24,Luminaria de Mesa,Casa,6,329.38,Fabio Costa,Nordeste
+53728d28-b302-4f03-998d-2ed55a4fa4e7,2024-11-21,Tablet Air,Eletronicos,3,487.66,Bruno Lima,Sul
+a1dc396f-b5ac-4236-bc4b-042a4d5e385c,2024-05-18,Aspirador Portatil,Casa,11,623.95,Bruno Lima,Nordeste
+6f86153f-8ff1-41d0-9453-879d7cc7345c,2024-01-17,Notebook Pro 14,Eletronicos,6,369.99,Ana Souza,Sul
+b73f242e-8057-4aa2-bbe5-9a67d39d411a,2024-12-01,Azeite Extra Virgem,Alimentos,8,365.09,Fabio Costa,Centro-Oeste
+709b83ff-6759-44af-b6f7-eb6b80a711b1,2024-03-12,Jaqueta Corta-Vento,Vestuario,4,674.24,Elisa Rocha,Nordeste
+20be0e69-faaa-4ecd-bcd2-3edbd042920d,2024-07-23,Tapete Sala,Casa,6,209.08,Bruno Lima,Norte
+425cd4d8-ed6d-40c0-8f0a-10cc8c85a83e,2024-01-25,Panela Antiaderente,Casa,2,150.25,Bruno Lima,Centro-Oeste
+2d690467-bb41-4a75-af73-ca2c3df2a500,2024-07-14,Smart TV 50pol,Eletronicos,10,896.47,Elisa Rocha,Nordeste
+0758b256-2aff-4d22-83df-7b40f4c8b913,2024-12-15,Smartphone X10,Eletronicos,9,679.45,Fabio Costa,Nordeste
+f5928e37-40f1-48d1-bc80-b35f4e35e30a,2024-08-10,Fone Bluetooth,Eletronicos,3,416.50,Fabio Costa,Nordeste
+4048a626-716e-4350-b945-c2af444b975b,2024-02-24,Bone Aba Reta,Vestuario,11,279.09,Fabio Costa,Norte
+b1ad3b26-ea66-4d0e-a6a6-f5df8697b206,2024-07-10,Calca Jeans,Vestuario,3,492.30,Elisa Rocha,Sudeste
+7656c925-57dd-4ec4-80bb-5c87fea9117e,2024-01-10,Granola Premium,Alimentos,2,837.16,Carla Mendes,Sul
+eac6db58-982e-4c5a-a46a-34e5eece0971,2024-10-17,Notebook Pro 14,Eletronicos,2,90.79,Diego Alves,Sudeste
+4b725e23-db5a-4d90-9342-afb2748ea9dd,2024-12-03,Calca Jeans,Vestuario,8,852.87,Bruno Lima,Nordeste
+864783fd-0f1e-4f57-8f30-6bab8f970174,2024-10-03,Jogo de Toalhas,Casa,12,625.46,Fabio Costa,Nordeste
+c3db7647-b73e-46d8-93cc-4198bf16d933,2024-08-12,Luminaria de Mesa,Casa,9,414.52,Bruno Lima,Sul
+9167ada1-80fc-42c3-9a25-86aab803bf6f,2024-01-11,Fone Bluetooth,Eletronicos,10,505.17,Elisa Rocha,Sul
+5d49edb3-01d1-4e75-8bf7-cd1c28e5743e,2024-12-28,Smartphone X10,Eletronicos,11,67.10,Ana Souza,Sudeste
+e4f22f3a-f7bf-497a-a7b1-3f67b850c300,2024-09-20,Cafe Gourmet 500g,Alimentos,4,261.42,Diego Alves,Sul
+ec6513d3-7711-4959-87ba-dbdc28edf14c,2024-10-22,Bone Aba Reta,Vestuario,8,230.03,Diego Alves,Centro-Oeste
+8236e1e6-85a3-445d-ba28-5c0a4553242b,2024-02-19,Camiseta Basica,Vestuario,11,396.44,Diego Alves,Centro-Oeste
+5ef3bfad-2e61-4973-9dfd-d8de85ec8759,2024-12-10,Panela Antiaderente,Casa,11,885.89,Ana Souza,Sudeste
+9afbef30-1cf8-4177-ae7a-66bf4508bb26,2024-02-25,Luminaria de Mesa,Casa,4,184.54,Elisa Rocha,Centro-Oeste
+c3dea721-08d0-439f-b757-0908297d73a8,2024-04-03,Tenis Esportivo,Vestuario,5,424.38,Ana Souza,Centro-Oeste
+124d3a5a-cc54-412f-abf6-0ce55b054114,2024-11-29,Smartphone X10,Eletronicos,9,754.80,Ana Souza,Sul
+ec4ee986-7075-490e-bd23-8cf586abe047,2024-09-05,Tenis Esportivo,Vestuario,8,204.14,Diego Alves,Sudeste
+258a831a-5312-412b-b7d3-c5dafae9e44f,2024-01-02,Tenis Esportivo,Vestuario,7,249.68,Diego Alves,Nordeste
+c464e7d5-f8f4-4048-9c4d-33ad6fc54c58,2024-12-04,Tapete Sala,Casa,12,445.66,Bruno Lima,Nordeste
+b897aff8-6253-4999-a3cb-260f4502afaf,2024-10-23,Camiseta Basica,Vestuario,12,494.79,Fabio Costa,Nordeste
+10c75220-a707-414c-b70c-03796b476e2c,2024-10-26,Smartphone X10,Eletronicos,8,459.97,Elisa Rocha,Sul
+3fcfdab9-7710-4be8-9f6b-22d5b4f4d16d,2024-02-11,Tablet Air,Eletronicos,3,75.63,Ana Souza,Sul
+94cd834b-4e49-41c3-9a6a-a700b825c995,2024-10-18,Panela Antiaderente,Casa,4,527.29,Ana Souza,Norte
+f428cc3a-9b1f-4641-81dc-69448c9d266f,2024-12-02,Smart TV 50pol,Eletronicos,10,515.17,Carla Mendes,Nordeste
+ea991981-b482-46c2-8b02-828b8822a28d,2024-05-02,Jaqueta Corta-Vento,Vestuario,5,365.23,Fabio Costa,Nordeste
+4fa13f48-5f41-41b6-9bd9-8ac372a934e4,2024-02-07,Luminaria de Mesa,Casa,1,420.54,Elisa Rocha,Sudeste
+d4407fbe-a9c0-4dcc-b14f-44bec06a4107,2024-04-19,Tablet Air,Eletronicos,9,249.68,Carla Mendes,Sudeste
+3202b228-cd45-49fd-92a3-3aa69761ebe3,2024-05-25,Jaqueta Corta-Vento,Vestuario,3,402.75,Elisa Rocha,Nordeste
+c763f4a7-e218-4a5a-a9be-f5a500e16048,2024-06-02,Tablet Air,Eletronicos,11,106.66,Bruno Lima,Nordeste
+fb1822a2-14f5-46fa-8d08-f0250313b031,2024-10-10,Smartphone X10,Eletronicos,3,256.00,Elisa Rocha,Sul
+d4a96fba-c8f4-4e99-b9bd-40249ae535ec,2024-12-17,Azeite Extra Virgem,Alimentos,11,769.74,Elisa Rocha,Centro-Oeste
+46ea54f5-ef5a-4555-8466-e3ddaf5aaa92,2024-02-17,Cafe Gourmet 500g,Alimentos,11,389.82,Carla Mendes,Sudeste
+ed4a496e-b7f6-470c-aa40-8494d906bd06,2024-03-07,Fone Bluetooth,Eletronicos,11,882.02,Bruno Lima,Centro-Oeste
+c02112e3-d7a6-4770-936c-935ce412ea2d,2024-01-05,Tapete Sala,Casa,2,81.58,Fabio Costa,Sul
+7d66224e-c499-4d71-8d6a-bd2b83cf9770,2024-10-25,Fone Bluetooth,Eletronicos,9,146.05,Bruno Lima,Sudeste
+2ec8c16e-11e0-43de-9f11-fae8a1613284,2024-01-21,Chocolate 70%,Alimentos,6,200.90,Bruno Lima,Sudeste
+d2c1e077-52ef-4c14-8649-54c107d805df,2024-07-27,Mel Organico,Alimentos,10,678.21,Bruno Lima,Sul
+11fef31d-1cdb-4c93-9f6d-c9482753e53a,2024-01-13,Tenis Esportivo,Vestuario,3,666.79,Carla Mendes,Centro-Oeste
+639f95f4-da42-4cb5-9139-f5a73ba439f9,2024-03-22,Jaqueta Corta-Vento,Vestuario,12,110.65,Ana Souza,Centro-Oeste
+d7808bb5-93ac-4490-b3f6-18d9ef8c9d82,2024-08-23,Calca Jeans,Vestuario,6,285.06,Bruno Lima,Sul
+f5513937-d602-4f24-b3b7-51f1e39670f9,2024-07-23,Notebook Pro 14,Eletronicos,6,261.54,Ana Souza,Nordeste
+78731d2a-b82b-4823-8f9f-abf1b45f72c4,2024-07-23,Mel Organico,Alimentos,11,883.22,Elisa Rocha,Nordeste
+8cf8f5c0-e292-436e-a6a4-b9652e88f819,2024-05-13,Smartphone X10,Eletronicos,3,528.76,Carla Mendes,Sudeste
+749e67e8-11ed-4af8-82a3-fee2432e1578,2024-08-10,Tablet Air,Eletronicos,6,659.69,Carla Mendes,Centro-Oeste
+f6add714-7214-47bf-aa9f-9bc5f0aed160,2024-10-22,Smart TV 50pol,Eletronicos,4,240.40,Fabio Costa,Centro-Oeste
+144c77f8-cfd8-41cf-a039-1f28f2528123,2024-10-02,Tablet Air,Eletronicos,11,651.62,Fabio Costa,Sul
+96a8659a-3ba0-42a9-bf9f-d21431175737,2024-02-05,Granola Premium,Alimentos,11,829.79,Elisa Rocha,Nordeste
+b71a2c54-0636-48bb-96d5-0840b82cacc3,2024-09-16,Fone Bluetooth,Eletronicos,5,605.13,Carla Mendes,Centro-Oeste
+fb5b90a8-2c19-46b7-99cb-87f58168df54,2024-03-06,Mel Organico,Alimentos,4,387.05,Diego Alves,Sul
+3830310f-d3b1-48a6-ba60-7f8af912d6ad,2024-10-07,Granola Premium,Alimentos,1,283.90,Bruno Lima,Centro-Oeste
+53c6fd89-b0cc-45b1-8575-5516454f31b4,2024-08-14,Granola Premium,Alimentos,8,612.86,Elisa Rocha,Centro-Oeste
+1890b04c-77ff-45d8-b9a6-0c9945b36b3b,2024-05-25,Camiseta Basica,Vestuario,9,602.44,Elisa Rocha,Nordeste
+9465c49d-a287-4919-87aa-144ad54d7833,2024-12-10,Notebook Pro 14,Eletronicos,5,213.78,Bruno Lima,Sul
+736c6694-c93a-4d6b-b50f-e9c699e0015a,2024-05-05,Smartphone X10,Eletronicos,8,555.92,Ana Souza,Centro-Oeste
+1f1fc3eb-fc6f-43a8-9491-f6cd6090a8d8,2024-04-09,Tapete Sala,Casa,12,631.20,Diego Alves,Centro-Oeste
+3c3a3bab-5ed4-460e-b0de-a8d2de5039f3,2024-12-01,Calca Jeans,Vestuario,12,19.91,Ana Souza,Centro-Oeste
+0432859e-826b-4264-b741-716db2371208,2024-12-22,Calca Jeans,Vestuario,9,426.08,Elisa Rocha,Sul
+37e609c7-a2cb-44f7-abc4-7698dc6239ae,2024-03-09,Smart TV 50pol,Eletronicos,8,605.74,Elisa Rocha,Norte
+1ee3958e-462c-433b-80b5-787144e61c45,2024-11-09,Granola Premium,Alimentos,12,804.35,Diego Alves,Norte
+595fb5a7-30e5-4205-a387-c6decd439d8a,2024-08-31,Jogo de Toalhas,Casa,8,244.36,Bruno Lima,Nordeste
